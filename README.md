@@ -1,7 +1,7 @@
 # About
 
 
-Hey Folks, Welcome to Open Source this a place where we can share
+Hey Folks, Welcome this a place where we can share
 
 
 1)what we are currently learning or working on and source for it
