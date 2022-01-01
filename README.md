@@ -11,3 +11,5 @@ Hey Folks, Welcome to Open Source this a place where we can share
 3)project ideas
 
 Feel free to suggest any improvements or changes
+
+If you are new to github checkout GettingStartedwithGithub Repository
