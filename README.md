@@ -12,4 +12,3 @@ Hey Folks, Welcome this a place where we can share
 
 Feel free to suggest any improvements or changes
 
-If you are new to github checkout GettingStartedwithGithub Repository
