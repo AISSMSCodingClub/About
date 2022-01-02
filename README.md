@@ -1,12 +1,12 @@
 # About
 
 
-Hey Folks, Welcome this a place where we can share
+Hey Folks, Welcome this is a place where we can share
 
 
 1)what we are currently learning or working on and source for it
 
-2)any competition or opportunity that we may come across on the on the internet or from friends
+2)any competition or opportunity that we may come across on the on the internet or from friends(checkout 'Resources' repo)
 
 3)project ideas
 
